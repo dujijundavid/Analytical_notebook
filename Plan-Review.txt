@@ -1,0 +1,5 @@
+I set a time to learn or review analytical related in python.
+Topics includes:
+1. Packages
+2. Python methods 
+3. Tasks
